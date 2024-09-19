@@ -7,9 +7,9 @@
 // Execute `rustlings hint move_semantics4` or use the `hint` watch subcommand
 // for a hint.
 
+// I AM NOT DON
 
 fn main() {
-    //let vec0 = Vec::new();
 
     let mut vec1 = fill_vec();
 
